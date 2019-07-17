@@ -4,7 +4,7 @@
             "outputFile": "/Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/danding/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/91db32217563957be0c28eca1bdc9ed2/res/values-large/values-large.xml",
+                    "source": "/Users/danding/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/ce34f354bcdf1ccd221818ff4a63b342/res/values-large/values-large.xml",
                     "from": {
                         "startLines": "4,7,8,11,12,13,14,15,16,17,18,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",

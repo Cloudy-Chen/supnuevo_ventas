@@ -8,18 +8,18 @@ MERGED from [:react-native-camera] /Users/danding/Documents/supnuevo_workspace/s
 MERGED from [:react-native-vector-icons] /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-sensitive-info] /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/node_modules/react-native-sensitive-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-fs] /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/node_modules/react-native-fs/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
-MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/223153568ae55d95cdc447dd677cd46c/AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/91db32217563957be0c28eca1bdc9ed2/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/534551a80061d7275fb24471f3b96dbe/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/fresco-0.11.0.aar/29b8c2d4388cece453da0b06b577514f/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/drawee-0.11.0.aar/05596e34f55d6b2b67621e2b3d47aef1/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-0.11.0.aar/681abaedd0646c959f3ad271d1ae0178/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.11.0.aar/566eadccb36bdb862a67344697ea29b7/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.11.0.aar/d09d7b27792f840cea170a4695beedda/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-v4:23.2.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/58893f090d04a5b53cc4b96d83e8b0f0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/567b5b1b45ff0a14001c82ae6f174468/AndroidManifest.xml:1:1-4:12
-MERGED from [org.webkit:android-jsc:r174650] /Users/danding/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/57b7e56a82766a5093b3dc72dfd5caa9/AndroidManifest.xml:1:1-3:12
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/fbcore-0.11.0.aar/33a730de788970401c55ca5db3a76a6c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/306fd61875d5823659f23ca274bb4c9d/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/ce34f354bcdf1ccd221818ff4a63b342/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/b2799e19c98e315500f4fdcddde55496/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/fresco-0.11.0.aar/c0a71b49dbd483b87fb1b617351ff92b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/drawee-0.11.0.aar/1b1940a099195efd67fa4ace80d95dcb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-0.11.0.aar/b99a5cde50a1b4728aebbe2f4eb045ce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.11.0.aar/a578c25813c900af2e5e916565b52f76/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.11.0.aar/75b588c7ed4c2b4ffaacdcfece6be780/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.2.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/6442a148242211272328c49d24c19168/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/064036b5e17f1023906f83b1c0b5ed5f/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/danding/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d87d89bfca98f8bf9c4582c667539a0e/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/fbcore-0.11.0.aar/532a4bd686519dc22aef2a56e9815545/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/src/main/AndroidManifest.xml:1:1-53:12
 INJECTED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/src/main/AndroidManifest.xml:1:1-53:12
 INJECTED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/src/main/AndroidManifest.xml:1:1-53:12
@@ -55,8 +55,8 @@ ADDED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/a
 		ADDED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/src/main/AndroidManifest.xml:12:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/src/main/AndroidManifest.xml:13:5-78
-MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/223153568ae55d95cdc447dd677cd46c/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/223153568ae55d95cdc447dd677cd46c/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/306fd61875d5823659f23ca274bb4c9d/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/306fd61875d5823659f23ca274bb4c9d/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/src/main/AndroidManifest.xml:13:22-75
 uses-permission#android.permission.ACCESS_NETWORK_STATE
@@ -127,28 +127,28 @@ MERGED from [:react-native-sensitive-info] /Users/danding/Documents/supnuevo_wor
 MERGED from [:react-native-sensitive-info] /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/node_modules/react-native-sensitive-info/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-fs] /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/node_modules/react-native-fs/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-fs] /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/node_modules/react-native-fs/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/223153568ae55d95cdc447dd677cd46c/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/223153568ae55d95cdc447dd677cd46c/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/91db32217563957be0c28eca1bdc9ed2/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/91db32217563957be0c28eca1bdc9ed2/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/534551a80061d7275fb24471f3b96dbe/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/534551a80061d7275fb24471f3b96dbe/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/fresco-0.11.0.aar/29b8c2d4388cece453da0b06b577514f/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/fresco-0.11.0.aar/29b8c2d4388cece453da0b06b577514f/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/drawee-0.11.0.aar/05596e34f55d6b2b67621e2b3d47aef1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/drawee-0.11.0.aar/05596e34f55d6b2b67621e2b3d47aef1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-0.11.0.aar/681abaedd0646c959f3ad271d1ae0178/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-0.11.0.aar/681abaedd0646c959f3ad271d1ae0178/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.11.0.aar/566eadccb36bdb862a67344697ea29b7/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.11.0.aar/566eadccb36bdb862a67344697ea29b7/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.11.0.aar/d09d7b27792f840cea170a4695beedda/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.11.0.aar/d09d7b27792f840cea170a4695beedda/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:23.2.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/58893f090d04a5b53cc4b96d83e8b0f0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.2.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/58893f090d04a5b53cc4b96d83e8b0f0/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/567b5b1b45ff0a14001c82ae6f174468/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/567b5b1b45ff0a14001c82ae6f174468/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/fbcore-0.11.0.aar/33a730de788970401c55ca5db3a76a6c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/fbcore-0.11.0.aar/33a730de788970401c55ca5db3a76a6c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/306fd61875d5823659f23ca274bb4c9d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/306fd61875d5823659f23ca274bb4c9d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/ce34f354bcdf1ccd221818ff4a63b342/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/ce34f354bcdf1ccd221818ff4a63b342/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/b2799e19c98e315500f4fdcddde55496/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/b2799e19c98e315500f4fdcddde55496/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/fresco-0.11.0.aar/c0a71b49dbd483b87fb1b617351ff92b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/fresco-0.11.0.aar/c0a71b49dbd483b87fb1b617351ff92b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/drawee-0.11.0.aar/1b1940a099195efd67fa4ace80d95dcb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/drawee-0.11.0.aar/1b1940a099195efd67fa4ace80d95dcb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-0.11.0.aar/b99a5cde50a1b4728aebbe2f4eb045ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-0.11.0.aar/b99a5cde50a1b4728aebbe2f4eb045ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.11.0.aar/a578c25813c900af2e5e916565b52f76/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.11.0.aar/a578c25813c900af2e5e916565b52f76/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.11.0.aar/75b588c7ed4c2b4ffaacdcfece6be780/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.11.0.aar/75b588c7ed4c2b4ffaacdcfece6be780/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.2.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/6442a148242211272328c49d24c19168/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/6442a148242211272328c49d24c19168/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/064036b5e17f1023906f83b1c0b5ed5f/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/064036b5e17f1023906f83b1c0b5ed5f/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/fbcore-0.11.0.aar/532a4bd686519dc22aef2a56e9815545/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/fbcore-0.11.0.aar/532a4bd686519dc22aef2a56e9815545/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/src/main/AndroidManifest.xml:29:5-31:41
 INJECTED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/src/main/AndroidManifest.xml:29:5-31:41
 	android:targetSdkVersion
@@ -161,16 +161,16 @@ INJECTED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/androi
 		INJECTED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/src/main/AndroidManifest.xml:33:5-51:19
-MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/223153568ae55d95cdc447dd677cd46c/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/223153568ae55d95cdc447dd677cd46c/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/91db32217563957be0c28eca1bdc9ed2/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/91db32217563957be0c28eca1bdc9ed2/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.2.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/58893f090d04a5b53cc4b96d83e8b0f0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.2.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/58893f090d04a5b53cc4b96d83e8b0f0/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/567b5b1b45ff0a14001c82ae6f174468/AndroidManifest.xml:3:3-17
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/567b5b1b45ff0a14001c82ae6f174468/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/danding/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/57b7e56a82766a5093b3dc72dfd5caa9/AndroidManifest.xml:2:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/danding/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/57b7e56a82766a5093b3dc72dfd5caa9/AndroidManifest.xml:2:3-17
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/306fd61875d5823659f23ca274bb4c9d/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.40.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/react-native-0.40.0.aar/306fd61875d5823659f23ca274bb4c9d/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/ce34f354bcdf1ccd221818ff4a63b342/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.0.aar/ce34f354bcdf1ccd221818ff4a63b342/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/6442a148242211272328c49d24c19168/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/danding/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/6442a148242211272328c49d24c19168/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/064036b5e17f1023906f83b1c0b5ed5f/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/danding/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/064036b5e17f1023906f83b1c0b5ed5f/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/danding/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d87d89bfca98f8bf9c4582c667539a0e/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/danding/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d87d89bfca98f8bf9c4582c667539a0e/AndroidManifest.xml:2:3-17
 	android:label
 		ADDED from /Users/danding/Documents/supnuevo_workspace/supnuevo_ventas/android/app/src/main/AndroidManifest.xml:37:9-41
 	android:largeHeap
