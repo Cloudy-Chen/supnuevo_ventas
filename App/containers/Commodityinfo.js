@@ -1692,7 +1692,7 @@ class Commodityinfo extends Component {
                                             width: 120,
                                             height: 120,
                                         }}
-                                               source={{uri: this.state.picturenum1}}
+                                               source={{uri: Config.imageServer + this.state.picturenum1}}
                                         />
 
                                     }
@@ -1716,7 +1716,7 @@ class Commodityinfo extends Component {
                                         width: 120,
                                         height: 120,
                                     }}
-                                           source={{uri: this.state.picturenum2}}
+                                           source={{uri: Config.imageServer + this.state.picturenum2}}
                                     />
                                 }
                             </TouchableOpacity>
@@ -1737,7 +1737,7 @@ class Commodityinfo extends Component {
                                         width: 120,
                                         height: 120,
                                     }}
-                                           source={{uri: this.state.picturenum3}}
+                                           source={{uri: Config.imageServer + this.state.picturenum3}}
                                     />
                                 }
                             </TouchableOpacity>
@@ -1760,7 +1760,7 @@ class Commodityinfo extends Component {
                                         width: 120,
                                         height: 120,
                                     }}
-                                           source={{uri: this.state.picturenum4}}
+                                           source={{uri: Config.imageServer + this.state.picturenum4}}
                                     />
                                 }
                             </TouchableOpacity>
@@ -1783,7 +1783,7 @@ class Commodityinfo extends Component {
                                         width: 120,
                                         height: 120,
                                     }}
-                                           source={{uri: this.state.picturenum5}}
+                                           source={{uri: Config.imageServer + this.state.picturenum5}}
                                     />
                                 }
                             </TouchableOpacity>
@@ -2196,7 +2196,7 @@ class Commodityinfo extends Component {
                     <Image resizeMode="contain" style={{
                         flex: 1
                     }}
-                           source={{uri: this.state.pictureuri}}
+                           source={{uri: Config.imageServer + this.state.pictureuri}}
                     />
                     <View style={{
                         height: 100,

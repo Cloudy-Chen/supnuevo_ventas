@@ -2137,12 +2137,12 @@ class Query extends Component {
                                         this.state.onclickChangeColor === 1 ?
                                             <Image resizeMode="contain"
                                                    style={[styles.picstyle, {borderWidth: 2, borderColor: 'red'}]}
-                                                   source={{uri: picnum1url}}
+                                                   source={{uri: Config.imageServer + picnum1url}}
                                             />
                                             :
                                             <Image resizeMode="contain"
                                                    style={styles.picstyle}
-                                                   source={{uri: picnum1url}}
+                                                   source={{uri: Config.imageServer + picnum1url}}
                                             />
                                     }
                                 </TouchableOpacity>
@@ -2160,12 +2160,12 @@ class Query extends Component {
                                     this.state.onclickChangeColor === 2 ?
                                         <Image resizeMode="contain"
                                                style={[styles.picstyle, {borderWidth: 2, borderColor: 'red'}]}
-                                               source={{uri: picnum2url}}
+                                               source={{uri: Config.imageServer + picnum2url}}
                                         />
                                         :
                                         <Image resizeMode="contain"
                                                style={styles.picstyle}
-                                               source={{uri: picnum2url}}
+                                               source={{uri: Config.imageServer + picnum2url}}
                                         />
                                 }
                                 </TouchableOpacity>
@@ -2183,12 +2183,12 @@ class Query extends Component {
                                     this.state.onclickChangeColor === 3 ?
                                         <Image resizeMode="contain"
                                                style={[styles.picstyle, {borderWidth: 2, borderColor: 'red'}]}
-                                               source={{uri: picnum3url}}
+                                               source={{uri: Config.imageServer + picnum3url}}
                                         />
                                         :
                                         <Image resizeMode="contain"
                                                style={styles.picstyle}
-                                               source={{uri: picnum3url}}
+                                               source={{uri: Config.imageServer + picnum3url}}
                                         />
                                 }
                                 </TouchableOpacity>
@@ -2206,12 +2206,12 @@ class Query extends Component {
                                     this.state.onclickChangeColor === 4 ?
                                         <Image resizeMode="contain"
                                                style={[styles.picstyle, {borderWidth: 2, borderColor: 'red'}]}
-                                               source={{uri: picnum4url}}
+                                               source={{uri: Config.imageServer + picnum4url}}
                                         />
                                         :
                                         <Image resizeMode="contain"
                                                style={styles.picstyle}
-                                               source={{uri: picnum4url}}
+                                               source={{uri: Config.imageServer + picnum4url}}
                                         />
                                 }</TouchableOpacity>
                                 :
@@ -2230,13 +2230,13 @@ class Query extends Component {
                                             <ImageP resizeMode="contain"
                                                     style={[styles.picstyle, {borderWidth: 2, borderColor: 'red'}]}
                                                     indicator={ProgressBar}
-                                                    source={{uri: picnum5url}}
+                                                    source={{uri: Config.imageServer + picnum5url}}
                                             />
                                             :
                                             <ImageP resizeMode="contain"
                                                     style={styles.picstyle}
                                                     indicator={ProgressBar}
-                                                    source={{uri: picnum5url}}
+                                                    source={{uri: Config.imageServer + picnum5url}}
                                             />
                                     }</TouchableOpacity>
                                 :
